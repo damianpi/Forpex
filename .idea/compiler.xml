@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="forpex (1)" />
+        <module name="forpex (1) (org.springframework.boot)" />
+        <module name="forpex-backend" />
+        <module name="forpex-backend (1)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="forpex" target="1.8" />
+      <module name="forpex (1)" target="1.8" />
+      <module name="forpex (1) (org.springframework.boot)" target="1.8" />
+      <module name="forpex-backend" target="1.8" />
+      <module name="forpex-backend (1)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
